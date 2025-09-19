@@ -10,6 +10,7 @@ while option != '5':
     print('5. Exit.')
     option = input('Choose an option from the menu: ')
     print('##########################################')
+    print('A change')
     
     if option in '12345':
 
