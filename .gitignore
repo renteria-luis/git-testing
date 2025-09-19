@@ -1,0 +1,12 @@
+# Ignored files
+__pycache__/
+.vscode/
+
+# Python compiled files to be ignored
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.venv/
