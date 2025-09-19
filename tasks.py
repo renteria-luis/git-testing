@@ -1,3 +1,5 @@
+# These are the functions to make test_git.py file work
+
 def add_task(tasks:list, task_:str, completed_:bool):
     task_dict = {}
     task_dict['task'] = task_
